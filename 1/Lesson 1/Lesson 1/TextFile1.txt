@@ -1,0 +1,20 @@
+Identifier
+Name Lookup
+
+undefined behavior
+unspecified behavior
+implementation defined
+
+indetermined value
+
+type deduction
+
+Implicit type conversion
+a) farklý adres türleri arasýnda
+b) aritmetik türler ile adres türleri arasýnda otomatik donusum
+
+linkage: 
+external linkage
+internal linkage
+
+
