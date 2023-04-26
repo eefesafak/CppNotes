@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-	 differences about const in c and c++
-	 const int x; no error in C
-	 const int x; syntax error in c++
+	 //differences about const in c and c++
+	 const int x;// no error in C
+	 const int x;// syntax error in c++
 
 //---------------------------
 	
@@ -25,8 +25,8 @@ int main()
 
 //---------------------------
 	
-	int* const p; error
-	const int* p; no error
+	int* const p; //error
+	const int* p; //no error
 
 //---------------------------
 
