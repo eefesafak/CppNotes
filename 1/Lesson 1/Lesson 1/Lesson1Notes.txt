@@ -10,8 +10,8 @@ indetermined value
 type deduction
 
 Implicit type conversion
-a) farklı adres türleri arasında
-b) aritmetik türler ile adres türleri arasında otomatik donusum
+a) farklÃ½ adres tÃ¼rleri arasÃ½nda
+b) aritmetik tÃ¼rler ile adres tÃ¼rleri arasÃ½nda otomatik donusum
 
 linkage: 
 external linkage
